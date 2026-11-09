@@ -42,7 +42,7 @@
         "gn:id":5881565
     },
     "wof:country":"AS",
-    "wof:geomhash":"415e094f665e7b4c33eb3c5c46710b84",
+    "wof:geomhash":"9a590dfdf55f3e2975acb34174c1d898",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     -170.57778000000005,
     -14.25389
 ],
-  "geometry": {"coordinates":[-170.57778000000005,-14.25389],"type":"Point"}
+  "geometry": {"coordinates":[-170.57778,-14.25389],"type":"Point"}
 }

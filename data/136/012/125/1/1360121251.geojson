@@ -48,7 +48,7 @@
         "wk:page":"Fitiuta,_American_Samoa"
     },
     "wof:country":"AS",
-    "wof:geomhash":"ad4fc965a7cf4ac52991bd8f257ed115",
+    "wof:geomhash":"56c944da98039b5f2c6abd4b05d12cbd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -73,5 +73,5 @@
     -169.42493000000005,
     -14.21675
 ],
-  "geometry": {"coordinates":[-169.42493000000005,-14.21675],"type":"Point"}
+  "geometry": {"coordinates":[-169.42493,-14.21675],"type":"Point"}
 }

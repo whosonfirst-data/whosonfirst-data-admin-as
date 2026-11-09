@@ -50,7 +50,7 @@
         "wk:page":"Tau,_American_Samoa"
     },
     "wof:country":"AS",
-    "wof:geomhash":"59f5739a8bf0a720f5364214ab70dc04",
+    "wof:geomhash":"7c0db306844cac9da01b9eafa8692e99",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -79,5 +79,5 @@
     -169.51443999999995,
     -14.23361
 ],
-  "geometry": {"coordinates":[-169.51443999999995,-14.23361],"type":"Point"}
+  "geometry": {"coordinates":[-169.51444,-14.23361],"type":"Point"}
 }
